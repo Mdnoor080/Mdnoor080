@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**Mdnoor080/Mdnoor080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Noor Mohammad 👋
 
-Here are some ideas to get you started:
+### Electronics & Computer Engineering Student | Developer | Technology Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an engineering student interested in building practical solutions through electronics, software, and technology.
+
+### 🚀 Areas of Interest
+- Embedded Systems & IoT
+- ESP32, Arduino & Raspberry Pi
+- Web Development & Full-Stack Applications
+- Mobile App Development
+- UI/UX & Graphic Design
+- Software Development
+- Technology Entrepreneurship
+
+### 🛠️ Technologies & Tools
+- **Programming:** C, C++, Embedded C, JavaScript
+- **Hardware:** ESP32, Arduino, Raspberry Pi, Sensors
+- **Web:** HTML, CSS, JavaScript, React, Next.js, WordPress
+- **Design:** Figma, Canva
+- **Tools:** VS Code, Arduino IDE, Git, GitHub
+
+### 📌 Featured Projects
+- Intelligent Wireless Ambulance Detection and Traffic Signal Prioritization System
+- IoT-Based Water Level Monitoring System
+- Smart Street Light System
+- Notes Town – Educational Platform
+- Easy Docs – Document Management Application
+
+### 🎯 Current Goals
+- Build real-world engineering projects
+- Improve embedded and software development skills
+- Develop useful digital products
+- Contribute to open-source projects
+
+### 📫 Connect With Me
+- GitHub: https://github.com/Mdnoor080
