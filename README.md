@@ -1,20 +1,20 @@
 
 # Hi, I'm Noor Mohammad 👋
 
-### Electronics & Computer Engineering Student | Developer | Technology Enthusiast
+### Electronics and Communication Engineering Student | Technology Developer
 
-I'm an engineering student interested in building practical solutions through electronics, software, and technology.
+I'm an Electronics and Communication Engineering student interested in developing practical solutions using electronics, embedded systems, IoT and software technologies.
 
 ### 🚀 Areas of Interest
+- Electronics and Communication Engineering
 - Embedded Systems & IoT
-- ESP32, Arduino & Raspberry Pi
-- Web Development & Full-Stack Applications
-- Mobile App Development
-- UI/UX & Graphic Design
+- Microcontrollers and Hardware Interfacing
+- Web Development and Web Applications
 - Software Development
-- Technology Entrepreneurship
+- UI/UX and Graphic Design
+- Engineering Projects and Innovation
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies
 - **Programming:** C, C++, Embedded C, JavaScript
 - **Hardware:** ESP32, Arduino, Raspberry Pi, Sensors
 - **Web:** HTML, CSS, JavaScript, React, Next.js, WordPress
@@ -25,14 +25,15 @@ I'm an engineering student interested in building practical solutions through el
 - Intelligent Wireless Ambulance Detection and Traffic Signal Prioritization System
 - IoT-Based Water Level Monitoring System
 - Smart Street Light System
-- Notes Town – Educational Platform
-- Easy Docs – Document Management Application
+- Notes Town – Educational Web Platform
+- Easy Docs – Web Application
 
 ### 🎯 Current Goals
-- Build real-world engineering projects
-- Improve embedded and software development skills
-- Develop useful digital products
+- Strengthen my ECE and embedded systems knowledge
+- Build real-world IoT and electronics projects
+- Develop useful web applications
+- Improve software development and UI/UX skills
 - Contribute to open-source projects
 
-### 📫 Connect With Me
+### 📫 Connect
 - GitHub: https://github.com/Mdnoor080
